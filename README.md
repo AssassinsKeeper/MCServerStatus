@@ -1,4 +1,4 @@
-# MCServerStatus
+# MCServerStatus (UNMAINTAINED)
 
 **NOTE**: I didn't create this script, but the author has disappeared. I like the script a lot, and it's very extensible as it uses the [Minetools.eu API](http://api.minetools.eu)
 
